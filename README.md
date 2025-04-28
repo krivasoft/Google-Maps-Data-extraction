@@ -24,8 +24,7 @@ This is a high-accuracy web scraping tool built with **Python + Selenium** that 
 - ✅ Website (if available)  
 - ✅ Original Search Query
 
-The tool can run custom search queries such as:
-- `Dental clinic in San Diego`  
+The tool can run custom search queries such as:  
 - `Coffee shop in New York`  
 - `Law firm in Chicago`  
 - and many more...
